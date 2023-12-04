@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+__pycache__/
+cmsis/
+cmsis_device_h5/
+hal5/
